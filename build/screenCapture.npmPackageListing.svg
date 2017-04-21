@@ -1,0 +1,16 @@
+<svg height="206" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="206" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 11:35:20 +0000   703678 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 11:35:20 +0000     1171 bytes  LICENSE.txt</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 11:35:20 +0000     8001 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 11:35:20 +0000   471368 bytes  browser.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 11:35:20 +0000    41994 bytes  index.es6.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 11:35:20 +0000    29083 bytes  index.es6.js.map</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 11:35:20 +0000    42674 bytes  index.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 11:35:20 +0000    29092 bytes  index.js.map</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 11:35:20 +0000    47056 bytes  index.umd.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 11:35:20 +0000    32525 bytes  index.umd.js.map</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 11:35:20 +0000      714 bytes  package.json</tspan>
+</text>
+</svg>
